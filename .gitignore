@@ -10,3 +10,5 @@
 *.volt.php
 *.pyc
 *.mo
+*~
+*.[oa]
